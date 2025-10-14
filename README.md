@@ -1,0 +1,3 @@
+Project for Object-Oriented Programming (Java) - Kielce University of Technology
+Work in progress...
+
