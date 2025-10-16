@@ -1,5 +1,6 @@
 public class Ship {
     public Ship(int shipLength) {
+
     }
 
     public boolean isLocationSet() {

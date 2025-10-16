@@ -15,4 +15,16 @@ public class Grid {
             {
                 throw new IllegalArgumentException("ERROR! NUM_ROWS CANNOT BE > 26");
             }
-}
+
+            grid = new Location[NUM_ROWS][NUM_COLS];
+
+            for (int row = 0; row < grid.length; row++)
+            {
+                for (int col = 0; col < grid[row].length; col++)
+                {
+                    Location tempLoc = new Location();
+                    grid[row][col] = tempLoc;
+                }
+            }
+        }
+
