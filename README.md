@@ -1,7 +1,7 @@
 # Battleship-The_Game
 Battleship using Java -🚢💣💥
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/0b72ff8a-3693-4689-9cb1-6b5f51195482" />
+<img width="524" height="524" alt="image" src="https://github.com/user-attachments/assets/d3726e83-f9df-432f-84f6-2da4a3274754" />
 
 
 Quick run-down of what Battleship is:
