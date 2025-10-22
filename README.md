@@ -1,5 +1,5 @@
-# Battleship-The_Game
-Battleship using Java -🚢💣💥
+# Battleship-The_Game using Java -🚢💣💥
+
 
 <img width="524" height="524" alt="image" src="https://github.com/user-attachments/assets/d3726e83-f9df-432f-84f6-2da4a3274754" />
 
