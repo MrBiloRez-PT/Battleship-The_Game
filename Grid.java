@@ -1,5 +1,3 @@
-import javax.xml.stream.Location;
-
 public class Grid {
     {
         Location[][] grid;

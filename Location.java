@@ -105,3 +105,9 @@ public class Location {
         }
     }
 
+    public boolean isUnguessed() {
+        return status == NOTGUESSED;
+    }
+
+
+
