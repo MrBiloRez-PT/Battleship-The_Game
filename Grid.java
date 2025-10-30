@@ -27,8 +27,7 @@ public class Grid
         }
     }
 
-    // Mark a hit in this location by calling the markHit method
-    // on the Location object.
+    // Mark a hit in this location by calling the markHit method on the Location object.
     public void markHit(int row, int col)
     {
         grid[row][col].markHit();
@@ -53,19 +52,19 @@ public class Grid
         return grid[row][col].getStatus();
     }
 
-    // Return whether or not this Location has already been guessed.
+    // Return this Location has already been guessed.
     public boolean alreadyGuessed(int row, int col)
     {
         return !grid[row][col].isUnguessed();
     }
 
-    // Set whether or not there is a ship at this location to the val
+    // Set if there is a (or not) ship at this location to the val
     public void setShip(int row, int col, boolean val)
     {
         grid[row][col].setShip(val);
     }
 
-    // Return whether or not there is a ship here
+    // Return if ship is there our not
     public boolean hasShip(int row, int col)
     {
         return grid[row][col].hasShip();
